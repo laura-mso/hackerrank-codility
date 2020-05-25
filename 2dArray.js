@@ -22,7 +22,6 @@ function luckBalance(k, contests) {
         for (let i = 0; i < Math.min(k, importantContestResult.length); i++) {
             importantContestSum += importantContestResult[i];
         }
-        console.log(importantContestSum);
         for (let i = k; i < importantContestResult.length; i++) {
             importantContestSum -= importantContestResult[i];
         }
