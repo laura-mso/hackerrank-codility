@@ -11,4 +11,4 @@ function solution(A, K) {
     return A;
 }
 
-console.log(solution([3, 8, 9, 7, 6], 3));
+// console.log(solution([3, 8, 9, 7, 6], 3));

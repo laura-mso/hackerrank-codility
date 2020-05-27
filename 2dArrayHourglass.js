@@ -3,7 +3,6 @@
 
 // Complete the hourglassSum function below.
 function hourglassSum(arr) {
-    console.log(arr);
     let firstRowSum = -Infinity;
     let secondRowSum = -Infinity;
     let thirdRowSum = -Infinity;
